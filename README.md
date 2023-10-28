@@ -1,6 +1,4 @@
-<div align="center">
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=m1105&layout=compact" />
-</div>
+
 
 <!--
 **m1105/m1105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
